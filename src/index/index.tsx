@@ -1,4 +1,4 @@
-import Index from "./index.md"
+import Index from "./index.mdx"
 import { type ComponentChildren } from "preact"
 import "./index.css"
 
